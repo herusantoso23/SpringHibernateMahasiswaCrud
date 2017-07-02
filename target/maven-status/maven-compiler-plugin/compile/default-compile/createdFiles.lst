@@ -1,0 +1,6 @@
+com/herusantoso/mahasiswa/controller/MahasiswaController.class
+com/herusantoso/mahasiswa/dao/MahasiswaDao.class
+com/herusantoso/mahasiswa/model/Mahasiswa.class
+com/herusantoso/mahasiswa/service/MahasiswaService.class
+com/herusantoso/mahasiswa/dao/impl/MahasiswaDaoImpl.class
+com/herusantoso/mahasiswa/service/impl/MahasiswaServiceImpl.class
